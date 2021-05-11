@@ -1,0 +1,18 @@
+使用虚拟机、MYSQL、MSSQL数据库时请在Windows服务管理中开启相关服务。
+
+虚拟机 所有Windows 系统 用户名：Administrator 密码：（为空密码）
+虚拟机 Red Hat Linux 密码 redhat           Kali Linux 密码 toor
+   
+    虚拟机无法正常打开请检查管理工具中相关服务（VMware Workstation Server）是否打开。虚拟机如果密码被修改，请先关闭虚拟机再拷贝其它电脑上对应系统的快照文件，重新打开虚拟机后自己设置密码。虚拟机及光盘镜像存放目录D:\虚拟机目录
+
+如遇到极域教师端无法找到学生端请先检查网络设备中是否开启了虚拟网卡。
+
+Navicat for MySQL 连接MySql数据库默认实例：root,默认密码：123456
+
+SQL Server Management Studio 连接数据库SQL Server默认实例：sa,密码：123456
+
+Visual Studio 2012 软件如果过了试用期需要密钥在，C:\Program Files (x86)\Microsoft Visual Studio 11.0 也就是Visual Studio 2012 安装目录下有个，VS2012旗舰版序列号+.txt文件里面有密钥复制再次激活就好
+
+apache-tomcat-8.0.46 在C:\Program Files目录下面
+
+
